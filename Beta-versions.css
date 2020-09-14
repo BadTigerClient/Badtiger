@@ -1,0 +1,36 @@
+.u-section-1 {background-image: url("images/Untitled238_20200912182822.png")}
+.u-section-1 .u-sheet-1 {min-height: 1664px}
+.u-section-1 .u-btn-1 {border-style: none; font-weight: 700; font-size: 0.9375rem; background-image: none; margin: 435px auto 0 498px; padding: 8px 33px}
+.u-section-1 .u-image-1 {width: 759px; height: 569px; margin: -498px auto 0}
+.u-section-1 .u-custom-html-1 {min-height: 720px; margin: -71px 611px 0 234px}
+.u-section-1 .u-btn-2 {border-style: none; font-weight: 700; font-size: 0.9375rem; background-image: none; margin: -255px auto 0; padding: 8px 33px}
+.u-section-1 .u-image-2 {width: 683px; height: 555px; object-position: 0% 50%; margin: 121px auto 0 229px}
+.u-section-1 .u-btn-3 {border-style: none; font-weight: 700; font-size: 0.9375rem; background-image: none; margin: -139px auto 60px 506px; padding: 8px 33px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 1372px}
+.u-section-1 .u-btn-1 {margin-left: 298px}
+.u-section-1 .u-custom-html-1 {width: 570px; margin-left: 134px; margin-right: 511px; height: auto}
+.u-section-1 .u-btn-3 {margin-left: 306px} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 1022px}
+.u-section-1 .u-btn-1 {margin-left: 78px}
+.u-section-1 .u-image-1 {width: 720px; height: 540px}
+.u-section-1 .u-custom-html-1 {margin-top: -30px; margin-right: 401px; margin-left: 24px}
+.u-section-1 .u-btn-2 {margin-top: -182px}
+.u-section-1 .u-image-2 {margin-left: 37px}
+.u-section-1 .u-btn-3 {margin-left: 86px} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 743px}
+.u-section-1 .u-btn-1 {margin-left: 0}
+.u-section-1 .u-image-1 {width: 540px; height: 405px}
+.u-section-1 .u-custom-html-1 {width: 540px; margin-right: 245px; margin-left: 0}
+.u-section-1 .u-btn-2 {margin-top: -47px}
+.u-section-1 .u-image-2 {width: 540px; height: 439px; margin-left: 0}
+.u-section-1 .u-btn-3 {margin-top: -23px; margin-left: 0} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 468px}
+.u-section-1 .u-image-1 {width: 340px; height: 255px}
+.u-section-1 .u-custom-html-1 {width: 340px; margin-right: 45px}
+.u-section-1 .u-btn-2 {margin-top: 103px}
+.u-section-1 .u-image-2 {width: 340px; height: 276px}
+.u-section-1 .u-btn-3 {margin-top: 140px} }

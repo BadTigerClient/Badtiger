@@ -1,0 +1,20 @@
+.u-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/Untitled238_20200912182822.png"); background-position: 50% 50%}
+.u-section-1 .u-sheet-1 {min-height: 776px}
+.u-section-1 .u-text-1 {font-size: 4.5rem; font-weight: 700; text-shadow: -4px 5px 27px rgba(0,0,0,1); width: 716px; margin: 60px auto 0}
+.u-section-1 .u-image-1 {float: none; width: 200px; margin: 0 10px 10px 0}
+.u-section-1 .u-custom-html-1 {min-height: 507px; margin: 30px 158px 60px 142px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 991px}
+.u-section-1 .u-text-1 {width: 561px}
+.u-section-1 .u-custom-html-1 {min-height: 607px; height: auto; margin-top: 23px; margin-right: 211px; margin-left: 159px} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 1025px}
+.u-section-1 .u-text-1 {width: auto; margin-right: 40px; margin-left: 107px}
+.u-section-1 .u-custom-html-1 {margin-top: 17px; margin-right: 100px; margin-left: 50px} }
+
+@media (max-width: 767px){ .u-section-1 .u-text-1 {color: rgb(255, 255, 255) !important; margin-left: 0; margin-right: 0}
+.u-section-1 .u-custom-html-1 {margin-top: 47px; margin-right: 87px; margin-left: -60px} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 1048px}
+.u-section-1 .u-text-1 {font-size: 2.25rem}
+.u-section-1 .u-custom-html-1 {margin: 94px -137px 13px -177px} }
